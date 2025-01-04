@@ -1,1 +1,1 @@
-# Case-Study-Toolhive-Supplies-Management-Receipt-Management-System
+# Case Study: Toolhive-Supplies-Management-Receipt-Management-System
